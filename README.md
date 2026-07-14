@@ -26,10 +26,6 @@
 
 ### 2026 年 7 月 14 号添加
 
-#### MarSeventh - [Github](https://github.com/MarSeventh)
-* :white_check_mark: [CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)：一个兼容Docker和Serverless双栈部署，支持多种后端存储渠道的开源文件托管解决方案，适合自建图床、静态站资源管理和轻量文件分发场景
-* :white_check_mark: [Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub)：一个精美的基于Vue框架的图床项目前端
-
 #### dhr2333(温州) - [Github](https://github.com/dhr2333/Beancount-Trans)
 * :white_check_mark: [Beancount-Trans](https://trans.dhr2333.cn/)：上传账单，自动转换为可审计的 Beancount 复式记账数据，并在几分钟内查看财务报表
 
