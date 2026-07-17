@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
 
+#### chuo0817
+* :white_check_mark: [XPhotos](https://apps.apple.com/cn/app/xphotos-%E7%85%A7%E7%89%87%E6%95%B4%E7%90%86%E4%B8%8E%E6%B8%85%E7%90%86/id6748490278)：iOS 相册整理工具，按月或随机清理照片、截图和视频，记录整理进度与释放空间，处理完全在本地
+
 #### 晨笙Cearl(北京) - [Github](https://github.com/chess99), [网站](https://cearl.cc)
 * :white_check_mark: [晨笙阅读](https://read.cearl.cc)：书籍解读平台，AI 辅助+人工校审，提炼经典书籍的核心问题、论证框架与实践洞见，支持分类浏览、全文搜索和主题阅读
 
