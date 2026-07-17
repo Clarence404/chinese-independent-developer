@@ -25,8 +25,13 @@
 ## 3. 项目列表
 ### 2026 年 7 月 17 号添加
 
-#### Christins(深圳) - [Github](https://github.com/Chen-Christins)
-* :white_check_mark: [XlsxSearcher](https://github.com/Chen-Christins/XlsxSearcher)：Excel 配置表搜索工具 — 面向游戏策划，快速定位 xlsx/xls 文件中的子表和单元格数据
+#### Terenzzzz(广州) - [Github](https://github.com/terenzzzz), [网站](https://www.terenzzzz.cn/)
+* :white_check_mark: [Stub Lab](https://stub-lab.terenzzzz.cn/)：浏览器里运行的票根生成工具，上传照片配上标题、日期和编号即可做出可导出的纪念票根
+* :white_check_mark: [AFTERSHOT](https://aftershot.terenzzzz.cn/)：在浏览器中复盘照片的技术与审美表现，含直方图、EXIF、美学评分、视觉显著性与 HDR 模拟
+* :white_check_mark: [Fork & Pour](https://fork-and-pour.terenzzzz.cn/)：把鸡尾酒配方当作代码协作的开源项目，用 JSON 管理配方、用 PR 贡献内容、前端自动展示结果
+
+#### chl(深圳)
+* :white_check_mark: [大字白板](https://big-font-hero.pages.dev/)：跟听障老人交流的小程序，将输入文字放大展示方便老人阅读，支持横竖屏、语音输入和交流历史记录，内容不离开本地
 
 #### chuweixuan2-afk - [Github](https://github.com/chuweixuan2-afk)
 * :white_check_mark: [澄镜塔罗](https://chengjingtarot.xyz/)：沉浸式在线塔罗占卜网站，按问题类型进入 Silver、Flower、Cathedral、Aurora 四套完整视觉场域，支持多牌阵 AI 解读、每日单牌「今日一镜」、镜札回望与隐私分享图，无需注册
