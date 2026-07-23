@@ -29,6 +29,11 @@
 #### slamancn - [Github](https://github.com/slamancn)
 * :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将PDF转换为Markdown，完全离线，无需上传、无文件大小限制、智能图像文字识别、快速、私密、安全，设备端处理，支持通过AirDrop共享；鸿蒙版本[PDF2MD](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
 
+#### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
+* :white_check_mark: [听歌Next](https://tinggenext.com)：多人在线共同听歌 - [更多介绍](https://tinggenext.com)
+* :white_check_mark: [Fin-Agent](https://fin-agent.chat)：帮助投资者对投资标的进行专业分析 - [更多介绍](https://fin-agent.chat)
+* :white_check_mark: [Doc2Md](https://doc2md.cn)：将 PDF、Word、Excel 等多种格式文件转换成 Agent 友好的 Markdown 格式 - [更多介绍](https://doc2md.cn)
+* :white_check_mark: [supergeo.info](https://supergeo.info)：帮助 GEO 从业者的工具集合平台 - [更多介绍](https://supergeo.info)
 
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。
@@ -38,6 +43,9 @@
 
 #### yipeng-git - [Github](https://github.com/yipeng-git)
 * :white_check_mark: [Paste It](https://paste-it.app)：macOS 本地剪贴板管理器，OCR 可搜截图文字，并可选本地 MCP 供 Agent 检索历史 - [更多介绍](https://github.com/yipeng-git/paste-it)
+
+#### bobochang - [GitHub](https://github.com/can4hou6joeng4)
+* :white_check_mark: [Semaphore](https://semaphore.bobochang.cn)：图片拖进浏览器秒变 ASCII 字符画，无上传无注册，一键复制成纯文本贴进终端、代码注释、聊天窗口，支持盲文点阵高密度模式与 txt / PNG / 分享卡片导出 - [源码](https://github.com/can4hou6joeng4/Semaphore)
 
 ### 2026 年 7 月 22 号添加
 
